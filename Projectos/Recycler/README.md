@@ -1,1 +1,1 @@
-<img src="../../img/01canino.png" alt="App Edad Canina" width="300" />
+<img src="../../img/07recycler.png" alt="App Edad Canina" width="300" />
